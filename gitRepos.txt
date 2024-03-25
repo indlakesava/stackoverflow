@@ -6,5 +6,14 @@ apis:
   -  https://github.com/public-apis/public-apis
   - 
 
+cheatSheet:
+  - https://quickref.me/java
+  - 
+
+practice:
+  - https://exercism.org/
+
+  
+
 
 
