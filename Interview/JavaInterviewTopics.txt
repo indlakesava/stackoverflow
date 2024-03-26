@@ -1,0 +1,32 @@
+Current Project based on Resume
+
+Core Java
+- JVM, JDV, JRE
+- Memory Management
+- Garbage Collection
+- Strings
+- Typecasting
+- Loops
+- OOPS
+- Classes, Objects, Constructors, This, Super
+- Interface and Abstarct classes
+- Exception Handling
+- Collections
+- Generics and Enums
+- Important APIs : Date time, XML, JSON
+- Java 8: Lambda, Streams, Functional interface, Method reference, Optional, Iterable, Default Methods, flatMap, foeEach()
+- Multi Threading: Threads, Thread methods, Thread life-cycle, Race Conditions, Semaphores, Atomic datatypes, Java Memory Model, Inter-Thread Communication, Java Synchronized Blocks, Deadlock and Locks in Java, Thread Pools, java.util.concurrent,  Blocking Queues, Synchronizers, Producer and Consumer
+- Spring
+- Spring Boot
+- JDBC
+- Hibernate
+- SQL
+- Design Patterns
+- 
+
+
+
+https://www.geeksforgeeks.org/java-interview-questions/
+https://mindmajix.com/java-interview-questions
+https://www.edureka.co/blog/interview-questions/java-interview-questions/
+https://www.javatpoint.com/corejava-interview-questions
