@@ -51,6 +51,62 @@ Plagarism checker
 Image to product processing
 Product catalog & search
 
+Top 20 System Design Topics:
+1. Requirements
+  User needs and goals.
+2. Scalability
+  Horizontal scaling.
+  Load balancing.
+3. Availability
+  High availability.
+  Failover strategies.
+4. Performance
+  Caching.
+  Optimization techniques.
+5. Data Storage
+  Relational databases.
+  NoSQL solutions.
+6. Architecture
+  Monolithic vs. microservices.
+7. Security
+  Authentication.
+  Encryption methods.
+8. Design Patterns
+  Singleton, Factory.
+9. Networking
+  Protocols.
+  CDN.
+10. Database Design
+  Normalization.
+  Indexing.
+11. Messaging
+  Queues.
+Pub/Sub systems.
+  12. API Design
+RESTful APIs.
+  Rate limiting.
+13. Load Testing
+  Tools.
+  Metrics.
+14. Caching Strategies
+  LRU.
+  Distributed caches.
+15. State Management
+  Sessions.
+  Stateless architectures.
+16. Infrastructure
+  Cloud services.
+  Containers.
+17. Logging and Monitoring
+  Tools.
+  Alerting mechanisms.
+18. Consistency Models
+  ACID.
+  BASE.
+19. Backup and Recovery
+  Strategies.
+  Disaster recovery.
+
 Resources:
 https://leetcode.com/discuss/career/229177/My-System-Design-Template
 https://www.designgurus.io/blog/system-design-interview-fundamentals
@@ -66,3 +122,4 @@ https://www.youtube.com/@codeKarle/videos
 https://www.youtube.com/watch?v=xpDnVSmNFX0&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX&ab_channel=GauravSen
 https://github.com/madd86/awesome-system-design?tab=readme-ov-file
 https://www.youtube.com/@TechDummiesNarendraL/playlists
+https://leetcode.com/discuss/study-guide/3616948/Golden-Rules-to-answer-in-a-System-Design-Interview
