@@ -1,4 +1,4 @@
-Important Concepts
+Important Concepts:
 1. Scalability
 2. Performance
 3. Latency and Throughput
@@ -14,17 +14,44 @@ Important Concepts
 13. Caching
 14. Message Queues
 
-Standard Questions
-1. Pastebin
-2. TinyURL
-3. Uber
-4. BookMyShow
-5. Twitter Feed
-6. Facebook Messenger
-7. Search in Instagram
-8. Video Streaming Service
+Standard Questions:
+TinyURL
+Movie-booking system : Book My Show/Fandango
+Feed/Timeline -Twitter/Instagram
+Posts, likes, follows, scale, API -Twitter/Instagram
+Video Streaming Service - Youtube or Netflix
+Messenger/ Chat room - Facebook or whatsapp
+Ecommerce - Amazon/flipkart
+Online book store
+Quora/ Reddit
+File management system - Dropbox/ Google Drive
+Uber or lyft
+API Rate Limiter(Github)
+Pastebin
+Parkinglot
+Search Engine / Web Crawler
+Recommendation System
+Toll Payment system
+Amazon fresh
+Amazon Hub
+Delivery - Zomato/Doordash/pizza shop
+Weather Monitor
+Real time game raking system
+Logging/Notification system (store logs, metadata, alert, dashboard) - splunk
+Google photos
+Careers Page
+Todo list
+Alexa news feed based on history, susbscriptions, no duplications
+push notification system
+Shopping cart
+Stock trading
+Ads for users based on rules and metrics
+Traffic light system
+Plagarism checker
+Image to product processing
+Product catalog & search
 
-
+Resources:
 https://leetcode.com/discuss/career/229177/My-System-Design-Template
 https://www.designgurus.io/blog/system-design-interview-fundamentals
 https://interviewing.io/guides/system-design-interview/part-two
@@ -35,3 +62,7 @@ https://www.freecodecamp.org/news/systems-design-for-interviews/
 https://completedesigninterviewcourse.com/system-design-concepts-components/
 https://www.interviewbit.com/system-design-interview-questions/
 https://www.geeksforgeeks.org/system-design-tutorial/
+https://www.youtube.com/@codeKarle/videos
+https://www.youtube.com/watch?v=xpDnVSmNFX0&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX&ab_channel=GauravSen
+https://github.com/madd86/awesome-system-design?tab=readme-ov-file
+https://www.youtube.com/@TechDummiesNarendraL/playlists
