@@ -107,6 +107,24 @@ RESTful APIs.
   Strategies.
   Disaster recovery.
 
+Flow:
+Functional Requirements
+Call out Assumptions (if any) - User Profile Creation and Authentication
+Non Functional Requirements
+Capacity Estimations - QPS, r:w, Latency expected (r/w), Traffic (r/w), Storage, Memory
+CAP Analysis - 
+  Design Goals 
+    Latency and Throughput requirements, Consistency vs Availability  
+    [Weak/strong/eventual => consistency | Failover/replication => availability]
+Services Needed - Note, Architecture Used, Connectivity
+Database Shema Design and API Design R/W for Crucial services
+Draw Services, Connectivity b/w services (APIs/MQs), Database step by step
+Scalability - Load Balancing, and DB Replication
+Performance Improvements - Caching, DNS, CDNs, Elastic Search, Sharding, and Indexing
+Backup and Recovery strategies explain - SPOF, Replicas, Archiving
+Maintanance - Logging, Monitoring, and Alerting
+
+
 Resources:
 https://leetcode.com/discuss/career/229177/My-System-Design-Template
 https://www.designgurus.io/blog/system-design-interview-fundamentals
@@ -123,3 +141,4 @@ https://www.youtube.com/watch?v=xpDnVSmNFX0&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPy
 https://github.com/madd86/awesome-system-design?tab=readme-ov-file
 https://www.youtube.com/@TechDummiesNarendraL/playlists
 https://leetcode.com/discuss/study-guide/3616948/Golden-Rules-to-answer-in-a-System-Design-Interview
+
