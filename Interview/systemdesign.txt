@@ -108,10 +108,10 @@ RESTful APIs.
   Disaster recovery.
 
 Flow:
-Functional Requirements
+Functional Requirements (Core functionalities)
 Call out Assumptions (if any) - User Profile Creation and Authentication
 Non Functional Requirements
-Capacity Estimations - QPS, r:w, Latency expected (r/w), Traffic (r/w), Storage, Memory
+Capacity Estimations - Estimated user base, QPS, r:w, Latency expected (r/w), Traffic (r/w), Storage, Memory
 CAP Analysis - 
   Design Goals 
     Latency and Throughput requirements, Consistency vs Availability  
