@@ -1,3 +1,5 @@
+https://newsletter.ashishps.com/p/basic-oop-concepts-explained-with-code
+https://newsletter.ashishps.com/p/solid-principles-explained-with-code
 https://github.com/ashishps1/awesome-low-level-design
 https://medium.com/@amirm.lavasani/design-patterns-in-python-a-series-f502b7804ae5
 https://github.com/kumaransg/LLD?tab=readme-ov-file
@@ -15,3 +17,20 @@ https://www.youtube.com/playlist?list=PLJN9ydlFnJsiEgyjO3D3yBhtiENymhF8G
 https://www.youtube.com/playlist?list=PL564gOx0bCLqTolRIHIsR2JPv11w8LESW
 
 class diagram , use case diagram , sequence diagram and then the code.
+
+Note: Before jumping to the next point always check with the interviewer if evrything looks good so far ot any additional things might be needed
+Clarify requirements and core use cases while noting down the flow
+Identify Entities - [ex: for stackoverflow - user, question, answer, comment, vote]
+Create Classes - Attributes 
+Identify methods
+Design Relationships - UML Diagram
+Implement necessary methods
+Exception Handling / Edge cases
+
+Use meaningful names
+Focus on simplicity and readability
+Favor composition over inheritance
+Use Interfaces
+Strive for Modularity
+Apply Design patterns and Principles
+Make your code scalable
