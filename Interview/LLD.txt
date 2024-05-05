@@ -1,3 +1,4 @@
+https://github.com/ashishps1/awesome-low-level-design
 https://medium.com/@amirm.lavasani/design-patterns-in-python-a-series-f502b7804ae5
 https://github.com/kumaransg/LLD?tab=readme-ov-file
 https://lldcoding.com/ - https://leetcode.com/discuss/interview-question/4513863/50%2B-LLD-Question-with-Solutions/
