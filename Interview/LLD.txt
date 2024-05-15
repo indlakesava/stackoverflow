@@ -37,3 +37,5 @@ Use Interfaces
 Strive for Modularity
 Apply Design patterns and Principles
 Make your code scalable
+
+https://leetcode.com/discuss/interview-question/system-design/233869/Design-Amazon-Locker-system
