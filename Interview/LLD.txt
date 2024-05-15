@@ -39,3 +39,7 @@ Apply Design patterns and Principles
 Make your code scalable
 
 https://leetcode.com/discuss/interview-question/system-design/233869/Design-Amazon-Locker-system
+https://leetcode.com/discuss/interview-question/5141576/Startup-LLD-Interview-Question
+https://github.com/tssovi/grokking-the-object-oriented-design-interview
+https://leetcode.com/discuss/interview-question/5054455/Amazon-Phone-screen-OOD
+https://leetcode.com/discuss/interview-question/system-design/1071562/Design-a-File-Download-Application-System
