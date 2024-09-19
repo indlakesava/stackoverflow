@@ -1,4 +1,4 @@
-Master Big O Notation
+Master Big O Notation - Big-O cheat sheet
 
 1. Two Pointers
  - Dual pointer strategy
@@ -121,4 +121,23 @@ https://leetcode.com/studyplan/top-interview-150/
 https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions
 https://www.techinterviewhandbook.org/grind75
 https://algo.monster/flowchart
+
+Learning
+Try to learn the patterns and how to identify, Make notes and revise
+Decide the pattern in which you are planning to work through and stick to it making small corrections
+Have Short term goals and write down the progress
+Maintain a book, for each question, write down the thought process starting from when you viewed the qns, constraints, edge cases, attempts, failures, why it failed, what is the final answer, any additional ways to solve this
+Keep reading others stories to motivate yourself
+
+Useful Links
+https://interviewguide.dev/
+Sorting - https://medium.com/@Practicus-AI/a-tour-of-the-top-5-sorting-algorithms-with-python-code-43ea9aa02889
+Binary Search Card - https://leetcode.com/explore/learn/card/binary-search/
+Tree Basics - https://medium.com/the-renaissance-developer/learning-tree-data-structure-27c6bb363051
+HackerEarth Tutorials - https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/tutorial/
+Dynamic Programming Patterns - https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns/439810
+DP Approach - https://www.quora.com/Are-there-any-good-resources-or-tutorials-for-dynamic-programming-DP-besides-the-TopCoder-tutorial
+LC questions to practice - https://leetcode.com/discuss/career/449135/How-to-effectively-use-LeetCode-to-prepare-for-interviews
+
+Mock Interviews - https://www.pramp.com/#/
 ...
