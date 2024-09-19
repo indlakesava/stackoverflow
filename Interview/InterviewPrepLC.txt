@@ -1,0 +1,124 @@
+Master Big O Notation
+
+1. Two Pointers
+ - Dual pointer strategy
+ - Linear time complexity
+ - Array/list problems
+
+2. Sliding Window
+ - Fixed/variable window
+ - O(n) time optimization
+ - Subarray/substring problems
+
+3. Fast and Slow Pointer
+ - Cycle detection method
+ - O(1) space efficiency
+ - Linked list problems
+
+4. Merge Intervals
+ - Sort and merge
+ - O(n log n) complexity
+ - Overlapping interval handling
+
+5. Prefix Sum
+ - Sum queries of subarrays
+ - Pre computes prefix sums
+ - Linear time complexity
+
+6. Cyclic Sort
+ - Sorting in cycles
+ - O(n) time complexity
+ - Constant space usage
+
+7. In-place Reversal of Linked List
+ - Reverse without extra space
+ - O(n) time efficiency
+ - Pointer manipulation technique
+
+8. Top 'K' elements
+ - Use heap/quickselect
+ - O(n log k) time
+ - Efficient selection problem
+
+9. Monotonic Stack
+ - Maintain increasing/decreasing stack
+ - Optimized for range queries
+ - O(n) time complexity
+
+10. K-way Merge
+ - Merge sorted lists
+ - Min-heap based approach
+ - O(n log k) complexity
+
+11. Two Heaps
+ - Max and min heaps
+ - Median tracking efficiently
+ - O(log n) insertions
+
+12. Modified Binary Search
+ - Search in variations
+ - O(log n) time
+ - Rotated/specialized arrays
+
+13. 0/1 Knapsack (Dynamic Programming)
+ - Choose or skip items
+ - O(n * W) complexity
+ - Maximize value selection
+
+14. Unbounded Knapsack (Dynamic Programming)
+ - Unlimited item choices
+ - O(n * W) complexity
+ - Multiple item selection
+
+15. Binary Tree Traversal
+ - Pre/In/Post Order Traversal
+ - Traverses binary trees
+
+16. Breadth First Search
+ - Level-by-level traversal
+ - Uses queue structure
+ - Shortest path problems
+
+17. Depth First Search
+ - Recursive/backtracking approach
+ - Uses stack (or recursion)
+ - Tree/graph traversal
+
+18. Islands (Matrix Traversal)
+ - DFS/BFS traversal
+ - Connected component detection
+ - 2D grid problems
+
+19. Subsets
+ - Generate all subsets
+ - Recursive or iterative
+ - Backtracking or bitmasking
+
+20. Topological Sort (Graphs)
+ - Directed acyclic graph
+ - Order dependency resolution
+ - Uses DFS or BFS
+
+21. Backtracking
+ - Recursive decision-making
+ - Explore all possibilities
+ - Pruning with constraints
+
+22. Dynamic Programming
+ - Optimization problems
+ - Puzzles, Permutations, Combinations
+
+23. Bitwise XOR
+ - Toggle bits operation
+ - O(1) space complexity
+ - Efficient for pairing
+
+
+Resources
+https://neetcode.io/practice - Core/75/150
+https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/
+https://leetcode.com/studyplan/top-interview-150/
+https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions
+https://www.techinterviewhandbook.org/grind75
+https://algo.monster/flowchart
+...
